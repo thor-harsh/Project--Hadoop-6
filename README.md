@@ -2,7 +2,7 @@
 
 <table>
 
- **In this project we use Apache Spark and we make an amazing Movie Recommendation using this ADLS of Apache Spark which which is built on top of hadoop**.<br></br>
+ **In this project we use Apache Spark and we make an  amazing Movie Recommendation using this ADLS of Apache Spark which which is built on top of hadoop**.<br></br>
  Here we try to predict ratings for User 0 which is first three rows in u.data for getting top 20 movies prediction by User 0 on the basis of training of our ALS model and then testing it
  on User 0 for movie recommendation.
  
