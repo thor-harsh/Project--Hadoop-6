@@ -12,7 +12,7 @@
   **(Ratings):** The ratings which the user gave to the given movie<br></br>
   **(Timestamp):** The time at which the user rated the given movie<br></br>
 
-**Here we make use of:**
+**Here we make use of:**<br></br>
 Collaborative filtering is commonly used for recommender systems. 
 These techniques aim to fill in the missing entries of a user-item association matrix. spark.ml currently supports model-based collaborative filtering, in which users and products are described by a small set of latent factors that can be used to predict missing entries. spark.ml uses the alternating least squares (ALS) algorithm to learn these latent factors. 
   
